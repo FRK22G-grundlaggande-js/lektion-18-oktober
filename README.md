@@ -10,7 +10,7 @@ Extra utmaning: Räkna antalet gissningar och visa för användaren när denna h
 
 Gör denna övning tills nästa måndag!
 
-Gör ett sten-sax-påse spel. Där användaren får tre knappar, en sten, sax eller påse. Sedan slumpas "datorns" drag (sten, sax eller påse) och efter det jämför med if-satser vem som vann.
+Gör ett sten-sax-påse spel. Där användaren får tre knappar, en för sten, sax eller påse. Sedan slumpas "datorns" drag (sten, sax eller påse) och efter det jämför med if-satser vem som vann.
 
 **Level up**
 
