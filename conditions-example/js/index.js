@@ -29,3 +29,10 @@ button.addEventListener('click', () => {
         message.innerText = 'Ej samma lösenord';
     }
 });
+
+// Slumpa ett tal
+
+const numberWithDecimals = Math.random() * 10; // Slumpa ett tal mellan 0-10
+const roundedNumber = Math.round(numberWithDecimals); // Avrunda talet till närmasta heltal utan decimaler
+
+console.log(roundedNumber);
